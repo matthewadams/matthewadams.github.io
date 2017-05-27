@@ -11,6 +11,8 @@
 * Semi-OK golfer
 * Former & future musician
 * GitHub profile: [https://github.com/matthewadams](https://github.com/matthewadams)
+* Twitter: [@matthewadams12](https://twitter.com/matthewadams12)
 * [Resume](matthewadams.md) ([pdf](matthewadams.pdf))
+* Highly recommended by self
 
 ![mug](matthewadams.png)
