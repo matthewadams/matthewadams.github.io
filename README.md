@@ -5,3 +5,5 @@
 * Primarily backend development
 * GitHub profile: [https://github.com/matthewadams](https://github.com/matthewadams)
 * Resume: [html](matthewadams.html) or [pdf](matthewadams.pdf)
+
+![pic](matthewadams.png)
