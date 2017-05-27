@@ -3,10 +3,12 @@
 [South Austin, TX Area](https://www.google.com/maps/place/78619) • [jobs@matthewadams.me](mailto:jobs@matthewadams.me)
 
 * Coding since 1982, getting paid for it since 1989
+* Next career step: continuing to code, VP/CTO of small- to medium-sized business or entrepreneur
 * Primarily backend development
 * Open source committer: [Yaktor](https://yaktor.io), [Spring Data Cassandra](https://projects.spring.io/spring-data-cassandra), others
+* I occasionally adult well
 * Used to know the Pac Man patterns
-* I blog (rarely): [blog.matthewadams.me](https://blog.matthewadams.me), [Medium.com](https://medium.com/@matthewadams12), [SciSpike Blog](http://www.scispike.com/category/blog/)
+* I blog (rarely): [blog.matthewadams.me](https://blog.matthewadams.me), [medium.com](https://medium.com/@matthewadams12), [SciSpike Blog](http://www.scispike.com/category/blog/)
 * Former good volleyball player
 * Semi-OK golfer
 * Former & future musician
@@ -14,5 +16,9 @@
 * Twitter: [@matthewadams12](https://twitter.com/matthewadams12)
 * [Resume](matthewadams.md) ([pdf](matthewadams.pdf))
 * Highly recommended by self
+* Roles played in random order of both importance & chronology: husband, father, developer, entrepreneur, friend, adult, playah, musician, geek, volleyball player/partner/teammate/coach, situational pseudocomedian, devops guy, resident advisor, child, drinker, cook, mentor, team lead, semiseldom-inappropriate-comment-saying guy
+* Favorite word: [`monosyllabic`](http://www.dictionary.com/browse/monosyllabic)
+* Least favorite word: [`bunion`](http://www.dictionary.com/browse/bunion) ([`moist`](http://thoughtcatalog.com/nico-lang/2013/09/moist-and-28-other-gross-sounding-english-words-that-everyone-hates) doesn't bother me at all)
+* Favorite numbers: [12](http://www.seahawks.com/spirit-of-12/history-of-the-12s), [<math><msqrt><mi>-1</mi></msqrt></math>](https://en.wikipedia.org/wiki/Imaginary_unit), [`NaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
 
 ![mug](matthewadams.png)
