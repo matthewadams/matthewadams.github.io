@@ -11,6 +11,7 @@
 * Open source committer: [Yaktor](https://yaktor.io), [Spring Data Cassandra](https://projects.spring.io/spring-data-cassandra), others
 * [Resume](matthewadams.md) ([pdf](matthewadams.pdf))
 * I occasionally adult well
+* Prefer companies that [hire](https://news.ycombinator.com/item?id=13874026) [without](https://github.com/poteto/hiring-without-whiteboards) [whiteboards](https://airtable.com/shr5TdnpVYVTpeRrN/tbluCbToxQ2knSLhh)
 * Used to know the Pac Man patterns
 * I blog (rarely): [blog.matthewadams.me](https://blog.matthewadams.me), [medium.com](https://medium.com/@matthewadams12), [SciSpike Blog](http://www.scispike.com/category/blog/)
 * Former good volleyball player
