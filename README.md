@@ -22,6 +22,6 @@
 * Roles played in random order of both importance & chronology: husband, father, developer, entrepreneur, friend, adult, playah, musician, geek, volleyball player/partner/teammate/coach, situational pseudocomedian, devops guy, resident advisor, child, drinker, cook, mentor, team lead, semiseldom-inappropriate-comment-saying guy
 * Favorite word: [`monosyllabic`](http://www.dictionary.com/browse/monosyllabic)
 * Least favorite word: [`bunion`](http://www.dictionary.com/browse/bunion) ([`moist`](http://thoughtcatalog.com/nico-lang/2013/09/moist-and-28-other-gross-sounding-english-words-that-everyone-hates) doesn't bother me at all)
-* Favorite numbers: [12](http://www.seahawks.com/spirit-of-12/history-of-the-12s), [<math><msqrt><mi>-1</mi></msqrt></math>](https://en.wikipedia.org/wiki/Imaginary_unit), [`NaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
+* Favorite numbers: [12](http://www.seahawks.com/spirit-of-12/history-of-the-12s), [-1<sup>.5</sup>](https://en.wikipedia.org/wiki/Imaginary_unit), [`NaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
 
 ![mug](matthewadams.png)
