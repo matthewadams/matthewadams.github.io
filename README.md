@@ -3,9 +3,9 @@
 [South Austin, TX Area](https://www.google.com/maps/place/78619) • [jobs@matthewadams.me](mailto:jobs@matthewadams.me)
 
 * Coding since 1982, getting paid for it since 1989
-* Next career step
+* Next career step:
   * happily continuing to code,
-  * VP/CTO of small- to medium-sized business, or
+  * VP of Development or CTO of small- to medium-sized business, or
   * entrepreneur
 * Primarily backend development
 * Open source committer: [Yaktor](https://yaktor.io), [Spring Data Cassandra](https://projects.spring.io/spring-data-cassandra), others
