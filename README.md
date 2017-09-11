@@ -19,6 +19,8 @@
 * Semi-OK golfer
 * Former & future musician
 * GitHub profile: [https://github.com/matthewadams](https://github.com/matthewadams)
+* StackOverflow story: [https://stackoverflow.com/story/matthewadams](https://stackoverflow.com/story/matthewadams)
+* LinkedIn: [https://linkedin.com/in/matthewadams](https://linkedin.com/in/matthewadams)
 * Twitter: [@matthewadams12](https://twitter.com/matthewadams12)
 * Highly recommended by self
 * Favorite word: [`monosyllabic`](http://www.dictionary.com/browse/monosyllabic)
