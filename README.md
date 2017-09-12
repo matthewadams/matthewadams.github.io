@@ -2,6 +2,10 @@
 ## Senior Software Developer
 [South Austin, TX Area](https://www.google.com/maps/place/78619) • [jobs@matthewadams.me](mailto:jobs@matthewadams.me)
 
+## tl;dr
+If you just want my resume, it's [right here](matthewadams.pdf).
+
+## About
 * Coding since 1982, getting paid for it since 1989
 * Next career step:
   * happily continuing to code,
@@ -10,7 +14,6 @@
 * Primarily backend development, but enjoying rekindled interest in front end
 * Recently called "grey beard" (meaning one of those older programmers that sits in the back row of huge keynote conference speeches shaking his head & thinking, "We had this stuff nailed in the 1980s with LISP."), which I consider a complement.
 * Open source committer: [Yaktor](https://yaktor.io), [Spring Data Cassandra](https://projects.spring.io/spring-data-cassandra), [JDO](https://db.apache.org/jdo), others
-* [Resume](matthewadams.md) ([pdf](matthewadams.pdf))
 * I occasionally adult well
 * Prefer companies that [hire](https://news.ycombinator.com/item?id=13874026) [without](https://github.com/poteto/hiring-without-whiteboards) [whiteboards](https://airtable.com/shr5TdnpVYVTpeRrN/tbluCbToxQ2knSLhh)
 * Used to know the Pac Man patterns
