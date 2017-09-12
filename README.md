@@ -15,6 +15,7 @@
 * Prefer companies that [hire](https://news.ycombinator.com/item?id=13874026) [without](https://github.com/poteto/hiring-without-whiteboards) [whiteboards](https://airtable.com/shr5TdnpVYVTpeRrN/tbluCbToxQ2knSLhh)
 * Used to know the Pac Man patterns
 * I blog (rarely): [blog.matthewadams.me](https://blog.matthewadams.me), [medium.com](https://medium.com/@matthewadams12), [SciSpike Blog](http://www.scispike.com/category/blog/)
+* I gave a talk on [Spring Data Cassandra at SpringOne 2014](https://www.infoq.com/presentations/spring-data-cassandra-couchbase) that's still around (as long as the link lasts)
 * Former good volleyball player
 * Semi-OK golfer
 * Former & future musician
