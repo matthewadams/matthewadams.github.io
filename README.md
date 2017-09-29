@@ -1,5 +1,5 @@
 # Matthew T. Adams
-## Senior Software Developer
+## Senior Software Architect
 [South Austin, TX Area](https://www.google.com/maps/place/78619) • [jobs@matthewadams.me](mailto:jobs@matthewadams.me)
 
 ## tl;dr
