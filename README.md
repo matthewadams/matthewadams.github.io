@@ -1,11 +1,24 @@
 # Matthew T. Adams
 ## Senior Software Architect
-[South Austin, TX Area](https://www.google.com/maps/place/78619) • [jobs@matthewadams.me](mailto:jobs@matthewadams.me)
 
-## tl;dr
+### tl;dr
 If you just want my resume, it's [right here](matthewadams.pdf).
 
-## About
+### Digitally Nomadic
+[Austin, TX](https://www.google.com/maps/place/austin+tx)
+•
+[Natchez, MS](https://www.google.com/maps/place/natchez+ms)
+•
+[Browns Pt, WA](https://www.google.com/maps/place/browns+point+wa)
+•
+[Denver, CO](https://www.google.com/maps/place/denver+co)
+•
+Others...
+
+### Contact
+[jobs@matthewadams.me](mailto:jobs@matthewadams.me)
+
+### About
 * Coding since 1982, getting paid for it since 1989
 * Next career step:
   * happily continuing to code,
@@ -29,6 +42,6 @@ If you just want my resume, it's [right here](matthewadams.pdf).
 * Highly recommended by self
 * Favorite word: [`monosyllabic`](http://www.dictionary.com/browse/monosyllabic)
 * Least favorite word: [`bunion`](http://www.dictionary.com/browse/bunion) ([`moist`](http://thoughtcatalog.com/nico-lang/2013/09/moist-and-28-other-gross-sounding-english-words-that-everyone-hates) doesn't bother me at all)
-* Favorite numbers: [12](http://www.seahawks.com/spirit-of-12/history-of-the-12s), [-1<sup>.5</sup>](https://en.wikipedia.org/wiki/Imaginary_unit), [`NaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
+* Favorite numbers: [12](https://www.seahawks.com/fans/the-12s/), [-1<sup>.5</sup>](https://en.wikipedia.org/wiki/Imaginary_unit), [`NaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
 
 ![mugshot](matthewadams.png)
