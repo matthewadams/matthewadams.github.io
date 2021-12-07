@@ -4,10 +4,10 @@
 ### tl;dr
 If you just want my resume, it's [right here](matthewadams.pdf).
 
-### Profiles
-* StackOverflow:  https://stackoverflow.com/story/matthewadams
-* GitHub:  https://github.com/matthewadams
-* LinkedIn:  https://www.linkedin.com/in/matthewadams
+### My Profiles
+* [StackOverflow](https://stackoverflow.com/story/matthewadams)
+* [GitHub](https://github.com/matthewadams)
+* [LinkedIn](https://www.linkedin.com/in/matthewadams)
 
 ### Digitally Nomadic
 [Austin, TX](https://www.google.com/maps/place/austin+tx)
