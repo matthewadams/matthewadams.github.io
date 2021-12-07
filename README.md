@@ -7,6 +7,7 @@ If you just want my resume, it's [right here](matthewadams.pdf).
 ### My Profiles
 * [StackOverflow](https://stackoverflow.com/story/matthewadams)
 * [GitHub](https://github.com/matthewadams)
+* [GitLab](https://gitlab.com/matthewadams12)
 * [LinkedIn](https://www.linkedin.com/in/matthewadams)
 
 ### Digitally Nomadic
