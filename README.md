@@ -21,7 +21,7 @@ If you just want my resume, it's [right here](matthewadams.pdf).
 Others...
 
 ### Contact
-[jobs@matthewadams.me](mailto:jobs@matthewadams.me)
+[matthew@matthewadams.me](mailto:matthew@matthewadams.me)
 
 ### About
 * Coding since 1982, getting paid for it since 1989
