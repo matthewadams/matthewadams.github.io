@@ -1,25 +1,13 @@
 # Matthew T. Adams
-## Principal Software Architect, Engineer & Consultant
+## Pragmatic Senior Software Architect, Engineer & Consultant
 
 ### tl;dr
 If you just want my resume, it's [right here](matthewadams.pdf).
 
 ### My Profiles
-* [StackOverflow](https://stackoverflow.com/story/matthewadams)
+* [LinkedIn](https://www.linkedin.com/in/matthewadams)
 * [GitHub](https://github.com/matthewadams)
 * [GitLab](https://gitlab.com/matthewadams12)
-* [LinkedIn](https://www.linkedin.com/in/matthewadams)
-
-### Digitally Nomadic
-[Austin, TX](https://www.google.com/maps/place/austin+tx)
-•
-[Natchez, MS](https://www.google.com/maps/place/natchez+ms)
-•
-[Browns Pt, WA](https://www.google.com/maps/place/browns+point+wa)
-•
-[Denver, CO](https://www.google.com/maps/place/denver+co)
-•
-Others...
 
 ### Contact
 [matthew@matthewadams.me](mailto:matthew@matthewadams.me)
@@ -27,7 +15,7 @@ Others...
 ### About
 * Coding since 1982, getting paid for it since 1989
 * Next career step:
-  * happily continuing to code,
+  * happily continuing to code as senior individual contributor,
   * VP of Development or CTO of small- to medium-sized business, or
   * entrepreneur
 * Primarily backend development, but enjoying rekindled interest in front end
@@ -49,5 +37,16 @@ Others...
 * Favorite word: [`monosyllabic`](http://www.dictionary.com/browse/monosyllabic)
 * Least favorite word: [`bunion`](http://www.dictionary.com/browse/bunion) ([`moist`](http://thoughtcatalog.com/nico-lang/2013/09/moist-and-28-other-gross-sounding-english-words-that-everyone-hates) doesn't bother me at all)
 * Favorite numbers: [12](https://www.seahawks.com/fans/the-12s/), [-1<sup>.5</sup>](https://en.wikipedia.org/wiki/Imaginary_unit), [`NaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
+
+### Digitally Nomadic
+[Austin, TX](https://www.google.com/maps/place/austin+tx)
+•
+[Natchez, MS](https://www.google.com/maps/place/natchez+ms)
+•
+[Browns Pt, WA](https://www.google.com/maps/place/browns+point+wa)
+•
+[Denver, CO](https://www.google.com/maps/place/denver+co)
+•
+Others...
 
 ![mugshot](matthewadams.png)
