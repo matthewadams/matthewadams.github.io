@@ -1,0 +1,38 @@
+<html>
+<body>
+<script>
+  let latlon
+  let elevation
+  let params = new URLSearchParams(document.location.search)
+  let q = params.get('q')?.trim()
+
+  let [lat, lon] = (q?.split(',') || [params.get('lat') || '0', params.get('lon') || '0']).map(it => it.trim())
+
+  function latLonToElevation() {
+    [lat, lon] = latlon.value.split(',').map(it => it.trim())
+    fetch("https://nationalmap.gov/epqs/pqs.php?units=feet&output=json&x=" + lon + "&y=" + lat)
+      .then(it => it.json())
+      .then(it => {
+        elevation.value = it.USGS_Elevation_Point_Query_Service.Elevation_Query.Elevation
+      })
+    latlon.select()
+    latlon.focus()
+  }
+</script>
+Lat, Long: <input id="latlon" type="text" onblur="latLonToElevation()"/>
+<br/>
+Elevation: <input id="elevation" type="text" value="?"/> ft
+<script>
+  latlon = document.getElementById('latlon')
+  elevation = document.getElementById('elevation')
+
+  latlon.value = lat + ", " + lon
+  if (lat === 0 && lon === 0) {
+    latlon.select()
+    latlon.focus()
+  } else {
+    latLonToElevation()
+  }
+</script>
+</body>
+</html>
